@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Documents\baitap12_10\obj\Debug\net10.0-windows\bai 12_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\baitap12_10\obj\Debug\net10.0-windows\bai 12_10.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\baitap12_10\obj\Debug\net10.0-windows\bai 12_10.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\baitap12_10\obj\Debug\net10.0-windows\bai 12_10.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\baitap12_10\obj\Debug\net10.0-windows\bai 12_10.sourcelink.json
+C:\Users\ADMIN\Documents\baitap12_10\bin\Debug\net10.0-windows\bai 12_10.exe
+C:\Users\ADMIN\Documents\baitap12_10\bin\Debug\net10.0-windows\bai 12_10.deps.json
+C:\Users\ADMIN\Documents\baitap12_10\bin\Debug\net10.0-windows\bai 12_10.runtimeconfig.json
+C:\Users\ADMIN\Documents\baitap12_10\bin\Debug\net10.0-windows\bai 12_10.dll
+C:\Users\ADMIN\Documents\baitap12_10\bin\Debug\net10.0-windows\bai 12_10.pdb
+C:\Users\ADMIN\Documents\baitap12_10\obj\Debug\net10.0-windows\bai 12_10.dll
+C:\Users\ADMIN\Documents\baitap12_10\obj\Debug\net10.0-windows\refint\bai 12_10.dll
+C:\Users\ADMIN\Documents\baitap12_10\obj\Debug\net10.0-windows\bai 12_10.pdb
+C:\Users\ADMIN\Documents\baitap12_10\obj\Debug\net10.0-windows\bai 12_10.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\baitap12_10\obj\Debug\net10.0-windows\ref\bai 12_10.dll

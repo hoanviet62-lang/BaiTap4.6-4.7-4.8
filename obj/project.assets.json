@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\bai 4_6\\bai 4_6.csproj",
-      "projectName": "bai 4_6",
-      "projectPath": "C:\\Users\\ADMIN\\Documents\\bai 4_6\\bai 4_6.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\baitap12_10\\bai 12_10.csproj",
+      "projectName": "bai 12_10",
+      "projectPath": "C:\\Users\\ADMIN\\Documents\\baitap12_10\\bai 12_10.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\Documents\\bai 4_6\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\Documents\\baitap12_10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config"

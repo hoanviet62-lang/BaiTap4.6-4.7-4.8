@@ -10,7 +10,7 @@ namespace TechMartProductManager
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormBai4_6());
+            Application.Run(new FormDashboard());
         }
     }
 }

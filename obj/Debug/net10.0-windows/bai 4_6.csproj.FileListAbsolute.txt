@@ -12,3 +12,4 @@ C:\Users\ADMIN\Documents\bai 4_6\obj\Debug\net10.0-windows\refint\bai 4_6.dll
 C:\Users\ADMIN\Documents\bai 4_6\obj\Debug\net10.0-windows\bai 4_6.pdb
 C:\Users\ADMIN\Documents\bai 4_6\obj\Debug\net10.0-windows\bai 4_6.genruntimeconfig.cache
 C:\Users\ADMIN\Documents\bai 4_6\obj\Debug\net10.0-windows\ref\bai 4_6.dll
+C:\Users\ADMIN\Documents\bai 4_6\obj\Debug\net10.0-windows\bai 4_6.sourcelink.json
